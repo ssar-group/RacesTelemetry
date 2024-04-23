@@ -1,4 +1,4 @@
-![](https://github.com/ssar-group/.github/source/images/racesTelemetry-header.png)
+![](https://github.com/ssar-group/.github/blob/main/source/images/racesTelemetry-header.png)
 
 # RacesTelemetry - Version Beta 0.01.0016
 
